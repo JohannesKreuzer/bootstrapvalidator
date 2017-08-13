@@ -1,0 +1,12 @@
+{
+    "name": "johanneskreuzer/bootstrapvalidate",
+    "description": "Bootstrap-Validator",
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nguyen Huu Phuoc",
+            "email": "phuoc@huuphuoc.me"
+        }
+    ]
+}
